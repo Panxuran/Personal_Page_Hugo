@@ -48,7 +48,11 @@ item:
 #   title: 'Object-Oriented Programming in R'
 #   url: ""
 - title: Program Committee (PC) member of CICAI 2021
+  organization: Coursera
+  date_start: "2021-01"
 - title: Reviewer for ICML, CICAI, ICIG, Results in Control and Optimization
+  organization: Coursera
+  date_start: "2019-2021"
 
 
 design:
