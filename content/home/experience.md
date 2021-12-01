@@ -25,7 +25,7 @@ experience:
   - title: Program Committee (PC) member of CICAI 2021
     company: CAAI International Conference on Artificial Intelligence
     company_url: ''
-    # company_logo: org-gc
+    company_logo: 
     # location: California
     date_start: '2021-06'
     date_end: ''
@@ -37,14 +37,14 @@ experience:
     #     * Modelling
     #     * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Reviewer for CVPR, ICML, CICAI, ICIG, Results in Control and Optimization
+    company: IEEE
     company_url: ''
-    # company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: 
+    location: 
+    date_start: '2019-present'
+    date_end: ''
+    description: ''
 
 design:
   columns: '2'
