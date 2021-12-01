@@ -32,7 +32,7 @@ experience:
     description: ''
         
   - title: Reviewer for CVPR, ICML, CICAI, ICIG, Results in Control and Optimization
-    company: ''
+    company: 'IEEE'
     company_url: ''
     company_logo: ''
     location: ''
