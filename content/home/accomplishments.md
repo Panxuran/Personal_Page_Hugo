@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: https://cicai.caai.cn/#/
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2021-06"
   description: ""
   organization: CAAI International Conference on Artificial Intelligence
   organization_url: https://cicai.caai.cn/#/
