@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: ''
     location: ''
-    date_start: '2021-05'
-    date_end: '2021-06'
+    date_start: '2021-05-01'
+    date_end: '2021-06-01'
     description: ''
         
   - title: Reviewer for CVPR, ICML, CICAI, ICIG, Results in Control and Optimization
@@ -36,7 +36,7 @@ experience:
     company_url: ''
     company_logo: ''
     location: ''
-    date_start: '2019-12'
+    date_start: '2019-12-01'
     date_end: ''
     description: ''
 
