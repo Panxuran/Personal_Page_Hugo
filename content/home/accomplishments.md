@@ -23,22 +23,22 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-# - certificate_url: https://www.coursera.org
-#   date_end: ""
-#   date_start: "2021-01-25"
-#   description: ""
-#   organization: Coursera
-#   organization_url: https://www.coursera.org
-#   title: Neural Networks and Deep Learning
-#   url: ""
-# - certificate_url: https://www.edx.org
-#   date_end: ""
-#   date_start: "2021-01-01"
-#   description: Formulated informed blockchain models, hypotheses, and use cases.
-#   organization: edX
-#   organization_url: https://www.edx.org
-#   title: Blockchain Fundamentals
-#   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+- certificate_url: ''
+  date_end: ""
+  date_start: "2021-01"
+  description: ""
+  organization: Coursera
+  organization_url: ''
+  title: Program Committee (PC) member of CICAI 2021
+  url: ""
+- certificate_url: ''
+  date_end: ""
+  date_start: "2019-present"
+  description: ''
+  organization: edX
+  organization_url: ''
+  title: Reviewer for ICML, CICAI, ICIG, Results in Control and Optimization
+  url: ''
 # - certificate_url: https://www.datacamp.com
 #   date_end: "2020-12-21"
 #   date_start: "2020-07-01"
@@ -47,12 +47,6 @@ item:
 #   organization_url: https://www.datacamp.com
 #   title: 'Object-Oriented Programming in R'
 #   url: ""
-- title: Program Committee (PC) member of CICAI 2021
-  organization: Coursera
-  date_start: "2021-01"
-- title: Reviewer for ICML, CICAI, ICIG, Results in Control and Optimization
-  organization: Coursera
-  date_start: "2019-2021"
 
 
 design:
