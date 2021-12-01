@@ -5,7 +5,7 @@
 
 title: Academic # Website name
 baseurl: 'xuranpan.plus' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© 2021 Xuran Pan' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
