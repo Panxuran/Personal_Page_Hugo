@@ -31,8 +31,8 @@ experience:
     date_end: '2021-06-01'
     description: ''
         
-  - title: Reviewer for CVPR, ICML, CICAI, ICIG, Results in Control and Optimization
-    company: 'IEEE'
+  - title: Reviewer for CVPR, ICML, ICIG, Results in Control and Optimization
+    company: 'IEEE Computer Society / Elsevier'
     company_url: ''
     company_logo: ''
     location: ''
