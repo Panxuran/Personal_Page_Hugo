@@ -14,7 +14,7 @@ main:
   #   url: '#projects'
   #   weight: 30
   - name: Activities
-    url: '#accomplished'
+    url: '#accomplishments'
     weight: 20
   - name: Publications
     url: '#featured'
