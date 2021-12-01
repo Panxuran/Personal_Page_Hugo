@@ -36,7 +36,7 @@ experience:
     company_url: ''
     company_logo: ''
     location: ''
-    date_start: '2019'
+    date_start: '2019-12'
     date_end: ''
     description: ''
 
