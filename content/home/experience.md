@@ -27,18 +27,18 @@ experience:
     company_url: ''
     company_logo: ''
     location: ''
-    date_start: '2021-06-05'
-    date_end: ''
+    date_start: '2021-05'
+    date_end: '2021-06'
     description: ''
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Reviewer for CVPR, ICML, CICAI, ICIG, Results in Control and Optimization
+    company: ''
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: ''
+    location: ''
+    date_start: '2019'
+    date_end: ''
+    description: ''
 
 design:
   columns: '2'
