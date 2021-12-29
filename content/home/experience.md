@@ -31,7 +31,7 @@ experience:
     date_end: '2021-06-01'
     description: ''
         
-  - title: Reviewer for CVPR, ICML, ICIG, Results in Control and Optimization
+  - title: Reviewer for CVPR, ICML, ICIG, IJRA, Results in Control and Optimization (RiCO)
     company: 'IEEE Computer Society / Elsevier'
     company_url: ''
     company_logo: ''
