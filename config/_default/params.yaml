@@ -27,6 +27,14 @@ marketing:
     google: ''
     baidu: ''
 
+email: pxr18@mails.tsinghua.edu.cn
+# phone: 888 888 88 88
+address:
+  street: Room 616, Central Main building
+  city: Tsinghua University
+  region: Beijing
+  postcode: '100084'
+
 # Site header
 
 header:
