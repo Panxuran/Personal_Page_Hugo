@@ -1,5 +1,5 @@
 ---
-title: "Regularizing Deep Networks with Semantic Data Augmentation"
+title: "PLAM: A plug-in module for flexible graph attention learning"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
