@@ -11,7 +11,7 @@ weight: 130
 title: Contact
 # subtitle:
 
-# content:
+content:
 #   # Automatically link email and phone or display as text?
 #   autolink: true
   
@@ -25,15 +25,15 @@ title: Contact
 #       captcha: false
 
   # Contact details (edit or remove options as required)
-  # email: pxr18@mails.tsinghua.edu.cn
-  # # phone: 888 888 88 88
-  # address:
-  #   street: Room 616, Central Main building
-  #   city: Tsinghua University
-  #   region: Beijing
-  #   postcode: '100084'
-  #   country: China
-  #   country_code: CN
+  email: pxr18@mails.tsinghua.edu.cn
+  # phone: 888 888 88 88
+  address:
+    street: Room 616, Central Main building
+    city: Tsinghua University
+    region: Beijing
+    postcode: '100084'
+    country: China
+    country_code: CN
   # coordinates:
   #   latitude: '37.4275'
   #   longitude: '-122.1697'
