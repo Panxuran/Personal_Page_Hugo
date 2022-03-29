@@ -1,5 +1,5 @@
 ---
-title: "3D Object Detection with Pointformer"
+title: "3D Object Detection with Pointformer2"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
