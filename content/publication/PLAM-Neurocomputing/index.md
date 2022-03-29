@@ -28,22 +28,11 @@ publishDate: "2022-02-08T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Neurocomputing*
-publication_short: In *Neurocomputing*
+publication: In *Neurocomputing, 2022*
+publication_short: In *Neurocomputing, 2022*
 
-abstract: Graph Convolutional Networks (GCNs) are general deep representation learning models for graphstructured data. In this paper, we propose a simple Plug-in Attention Module (PLAM) to improve the representation power of GCNs, inspired by the recent success of the query-key mechanism in computer
-vision and natural language processing. With this module, our network is able to adaptively learn the
-weights from a node towards its neighbors. Different from existing attention-based GCNs, the proposed
-PLAM has several important properties. First, the parameter space for the attention module is isolated
-from that for feature learning. This ensures that the proposed approach can be conveniently applied to
-existing GCNs as a plug-in module. Second, the anchor node and neighbor nodes are treated separately
-when learning the attention weights, which further enhances the flexibility of our structure. Third, our
-attention module extracts higher-level information by computing the inner product of the features
-between the anchor node and neighbor nodes, leading to significantly increased representation power.
-Last, we take a step forward and propose a novel structural encoding technique for the graph attention
-module to inject local and global structure information. Although being simple, our PLAM models have
-achieved state-of-the-art performances on graph-structured datasets under both the transductive and
-inductive settings. Additionally, experiments on image and point cloud datasets show potential applications of PLAM on several computer vision tasks.
+abstract: Graph Convolutional Networks (GCNs) are general deep representation learning models for graphstructured data. In this paper, we propose a simple Plug-in Attention Module (PLAM) to improve the representation power of GCNs, inspired by the recent success of the query-key mechanism in computer vision and natural language processing. With this module, our network is able to adaptively learn the weights from a node towards its neighbors. Different from existing attention-based GCNs, the proposed PLAM has several important properties. First, the parameter space for the attention module is isolated from that for feature learning. This ensures that the proposed approach can be conveniently applied to existing GCNs as a plug-in module. Second, the anchor node and neighbor nodes are treated separately when learning the attention weights, which further enhances the flexibility of our structure. Third, our
+attention module extracts higher-level information by computing the inner product of the features between the anchor node and neighbor nodes, leading to significantly increased representation power. Last, we take a step forward and propose a novel structural encoding technique for the graph attention module to inject local and global structure information. Although being simple, our PLAM models have achieved state-of-the-art performances on graph-structured datasets under both the transductive and inductive settings. Additionally, experiments on image and point cloud datasets show potential applications of PLAM on several computer vision tasks.
 
 
 # Summary. An optional shortened abstract.
