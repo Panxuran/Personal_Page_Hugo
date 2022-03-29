@@ -1,5 +1,5 @@
 ---
-title: "Vision Transformer with Deformable Attention2"
+title: "Vision Transformer with Deformable Attention"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
