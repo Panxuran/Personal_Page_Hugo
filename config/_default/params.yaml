@@ -85,12 +85,12 @@ edit_page:
   content_dir: ''
   repo_branch: main
   editable:
-    page: false
+    page: true
     post: false
     book: false
 show_related:
   book: true
-  page: false
+  page: true
   post: true
   project: true
   publication: true
