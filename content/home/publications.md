@@ -16,7 +16,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - publication
+      - publication_all
     tag: ''
     category: ''
     publication_type: ''
@@ -37,5 +37,5 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+Quickly discover relevant content by [filtering publications](./publication_all/).
 {{% /callout %}}
