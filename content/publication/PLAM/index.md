@@ -39,7 +39,7 @@ summary: In this paper, we propose a simple Plug-in Attention Module (PLAM) to i
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
