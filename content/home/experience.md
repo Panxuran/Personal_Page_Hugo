@@ -30,8 +30,17 @@ experience:
     date_start: '2021-05-01'
     date_end: '2021-06-01'
     description: ''
+
+  - title: Program Committee (PC) member of CICAI 2022
+    company: CAAI International Conference on Artificial Intelligence
+    company_url: ''
+    company_logo: ''
+    location: ''
+    date_start: '2022-05-31'
+    date_end: '2022-07-10'
+    description: ''
         
-  - title: Reviewer for CVPR, ICML, ECCV, ICIG, IJRA, RiCO, Information Fusion
+  - title: Reviewer for CVPR, ICML, NeurIPS, ECCV, ICIG, IJRA, RiCO, Information Fusion
     company: 'IEEE Computer Society / Elsevier'
     company_url: ''
     company_logo: ''
