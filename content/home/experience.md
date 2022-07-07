@@ -31,7 +31,7 @@ experience:
     date_end: '2021-06-01'
     description: ''
         
-  - title: Reviewer for CVPR, ICML, ECCV, ICIG, IJRA, RiCO
+  - title: Reviewer for CVPR, ICML, ECCV, ICIG, IJRA, RiCO, Information Fusion
     company: 'IEEE Computer Society / Elsevier'
     company_url: ''
     company_logo: ''
