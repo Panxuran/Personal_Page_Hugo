@@ -1,5 +1,5 @@
 ---
-title: "On the Integration of Self-Attention and Convolution"
+title: "ActiveNeRF: Learning where to See with Uncertainty Estimation"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
