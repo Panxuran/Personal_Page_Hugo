@@ -31,7 +31,6 @@ experience:
     date_end: ''
     description: ''
 
-experience:
   - title: 2022-09 Invited talk on ActiveNeRF at Zhiyi Technology!
     company: 
     company_url: ''
