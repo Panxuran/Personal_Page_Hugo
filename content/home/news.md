@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: 2022.9: One paper accepted by NeurIPS 2022!
+  - title: 2022-09 One paper accepted by NeurIPS 2022!
     company: ''
     company_url: ''
     company_logo: ''
@@ -32,7 +32,7 @@ experience:
     description: ''
 
 experience:
-  - title: 2022.9: Invited talk on ActiveNeRF at Zhiyi Technology!
+  - title: 2022-09 Invited talk on ActiveNeRF at Zhiyi Technology!
     company: ''
     company_url: ''
     company_logo: ''
@@ -41,7 +41,7 @@ experience:
     date_end: ''
     description: ''
 
-  - title: 2022.7: One paper accepted by ECCV 2022!
+  - title: 2022-07 One paper accepted by ECCV 2022!
     company: ''
     company_url: ''
     company_logo: ''
@@ -50,7 +50,7 @@ experience:
     date_end: ''
     description: ''
 
-  - title: 2022.3: Two papers accepted by CVPR 2022!
+  - title: 2022-03 Two papers accepted by CVPR 2022!
     company: ''
     company_url: ''
     company_logo: ''
