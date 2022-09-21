@@ -28,7 +28,7 @@ experience:
     company_logo: ''
     location: ''
     date_start: '2021-05-01'
-    date_end: '2021-06-01'
+    date_end: ''
     description: ''
 
 
