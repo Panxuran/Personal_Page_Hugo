@@ -31,33 +31,6 @@ experience:
     date_end: ''
     description: ''
 
-  - title: 2022-09 Invited talk on ActiveNeRF at Zhiyi Technology!
-    company: ''
-    company_url: ''
-    company_logo: ''
-    location: ''
-    date_start: ''
-    date_end: ''
-    description: ''
-
-  - title: 2022-07 One paper accepted by ECCV 2022!
-    company: ''
-    company_url: ''
-    company_logo: ''
-    location: ''
-    date_start: ''
-    date_end: ''
-    description: ''
-
-  - title: 2022-03 Two papers accepted by CVPR 2022!
-    company: ''
-    company_url: ''
-    company_logo: ''
-    location: ''
-    date_start: ''
-    date_end: ''
-    description: ''
-
 
 design:
   columns: '2'
