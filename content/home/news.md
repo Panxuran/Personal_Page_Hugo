@@ -32,7 +32,7 @@ experience:
     description: ''
 
 experience:
-  - title: 2022.9: Invited talk on ActiveNeRF at Zhiyi Technology (智一科技)!
+  - title: 2022.9: Invited talk on ActiveNeRF at Zhiyi Technology!
     company: 
     company_url: ''
     company_logo: ''
