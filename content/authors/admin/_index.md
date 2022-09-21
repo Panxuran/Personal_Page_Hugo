@@ -70,4 +70,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
 
-I am a fourth year Ph.D. student at Tsinghua University, advised by [Prof. Gao Huang](http://www.gaohuang.net/) and Prof. Cheng Wu. My research interests lie in the deep learning, graph neural network and 3D vision.
+I am a fifth year Ph.D. student at Tsinghua University, advised by [Prof. Gao Huang](http://www.gaohuang.net/) and Prof. Cheng Wu. My research interests lie in the deep learning, graph neural network and 3D vision.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé (CN){{< /staticref >} / {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé (EN){{< /staticref >}}.
