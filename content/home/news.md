@@ -22,32 +22,43 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Program Committee (PC) member of CICAI 2021
-    company: CAAI International Conference on Artificial Intelligence
+  - title: 2022.9: One paper accepted by NeurIPS 2022!
+    company: 
     company_url: ''
     company_logo: ''
     location: ''
-    date_start: '2021-05-01'
-    date_end: '2021-06-01'
-    description: ''
-
-  - title: Program Committee (PC) member of CICAI 2022
-    company: CAAI International Conference on Artificial Intelligence
-    company_url: ''
-    company_logo: ''
-    location: ''
-    date_start: '2022-05-31'
-    date_end: '2022-07-10'
-    description: ''
-        
-  - title: Reviewer for CVPR, ICML, NeurIPS, ECCV, ICIG, IJRA, RiCO, Information Fusion
-    company: 'IEEE Computer Society / Elsevier'
-    company_url: ''
-    company_logo: ''
-    location: ''
-    date_start: '2019-12-01'
+    date_start: ''
     date_end: ''
     description: ''
+
+experience:
+  - title: 2022.9: Invited talk on ActiveNeRF at Zhiyi Technology (智一科技)!
+    company: 
+    company_url: ''
+    company_logo: ''
+    location: ''
+    date_start: ''
+    date_end: ''
+    description: ''
+
+  - title: 2022.7: One paper accepted by ECCV 2022!
+    company: 
+    company_url: ''
+    company_logo: ''
+    location: ''
+    date_start: ''
+    date_end: ''
+    description: ''
+
+  - title: 2022.3: Two papers accepted by CVPR 2022!
+    company: 
+    company_url: ''
+    company_logo: ''
+    location: ''
+    date_start: ''
+    date_end: ''
+    description: ''
+
 
 design:
   columns: '2'
