@@ -55,7 +55,7 @@ item:
     organization_url: 
     title: 2022-06 One paper annominated in CVPR2022 best paper finalist !
     url: 'https://openaccess.thecvf.com/content/CVPR2022/papers/Xia_Vision_Transformer_With_Deformable_Attention_CVPR_2022_paper.pdf'
-- certificate_url: 
+  - certificate_url: 
     date_end: ''
     date_start: '2022-03-15'
     description: ''
