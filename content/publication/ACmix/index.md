@@ -56,6 +56,9 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+links:
+- name: Talk
+  url: http://www.aitime.cn/Activity/activityDetail?id=146
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
