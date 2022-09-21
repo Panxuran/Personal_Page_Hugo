@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: 2022-09 One paper accepted by NeurIPS 2022!
-    company: ''
+    company: 
     company_url: ''
     company_logo: ''
     location: ''
@@ -33,7 +33,7 @@ experience:
 
 experience:
   - title: 2022-09 Invited talk on ActiveNeRF at Zhiyi Technology!
-    company: ''
+    company: 
     company_url: ''
     company_logo: ''
     location: ''
@@ -42,7 +42,7 @@ experience:
     description: ''
 
   - title: 2022-07 One paper accepted by ECCV 2022!
-    company: ''
+    company: 
     company_url: ''
     company_logo: ''
     location: ''
@@ -51,7 +51,7 @@ experience:
     description: ''
 
   - title: 2022-03 Two papers accepted by CVPR 2022!
-    company: ''
+    company: 
     company_url: ''
     company_logo: ''
     location: ''
