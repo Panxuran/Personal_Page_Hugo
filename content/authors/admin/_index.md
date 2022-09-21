@@ -72,5 +72,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
 
 I am a fifth year Ph.D. student at Tsinghua University, advised by [Prof. Gao Huang](http://www.gaohuang.net/) and Prof. Cheng Wu. My research interests lie in the deep learning, graph neural network and 3D vision.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://cloud.tsinghua.edu.cn/d/6410c4a6784b473b8399/" "newtab" >}}resumé (CN){{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://cloud.tsinghua.edu.cn/d/6410c4a6784b473b8399/" "newtab" >}}resumé (CN/EN){{< /staticref >}}.
 
