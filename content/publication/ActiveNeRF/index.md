@@ -41,18 +41,17 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/LeapLabTHU/ActiveNeRF'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+links:
+- name: Talk
+  url: https://course.zhidx.com/c/NTk2MmEyNjIzMWZkM2I3OTFlMjM=
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
