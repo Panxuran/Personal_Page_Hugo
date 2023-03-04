@@ -51,7 +51,7 @@ item:
     date_end: ''
     date_start: '2022-09-16'
     description: ''
-    organization: Ai New Youth Lectures on Neuran Radiance Field
+    organization: Ai New Youth Lectures on Neural Radiance Field
     organization_url: 
     title: 2022-09 Invited talk on ActiveNeRF at Zhiyi Technology (智一科技) !
     url: 'https://course.zhidx.com/c/NTk2MmEyNjIzMWZkM2I3OTFlMjM='
