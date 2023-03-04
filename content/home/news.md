@@ -27,7 +27,7 @@ item:
     date_end: ''
     date_start: '2023-03-01'
     description: ''
-    organization: Slide-Transformer: Hierarchical Vision Transformer with Local Self-Attention
+    organization: Slide-Transformer： Hierarchical Vision Transformer with Local Self-Attention
     organization_url: 
     title: 2023-03 One paper accepted by CVPR 2023 !
     url: ''
