@@ -25,6 +25,14 @@ date_format: Jan 2006
 item:
   - certificate_url: 
     date_end: ''
+    date_start: '2023-03-01'
+    description: ''
+    organization: Slide-Transformer: Hierarchical Vision Transformer with Local Self-Attention
+    organization_url: 
+    title: 2023-03 One paper accepted by CVPR 2023 !
+    url: ''
+  - certificate_url: 
+    date_end: ''
     date_start: '2023-01-21'
     description: ''
     organization: Budgeted Training for Vision Transformer
