@@ -41,7 +41,7 @@ summary: In this paper, we propose a novel local attention module, dubbed Slide 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
