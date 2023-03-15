@@ -30,8 +30,8 @@ publishDate: "2023-01-21T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Internation Conference on Learning Represetation (ICLR) 2023*
-publication_short: In *Internation Conference on Learning Represetation (ICLR) 2023*
+publication: In *International Conference on Learning Representation (ICLR) 2023*
+publication_short: In *International Conference on Learning Representation (ICLR) 2023*
 
 abstract: The superior performances of Vision Transformers often come with higher training costs. Compared to their CNN counterpart, Transformer models are hungry for large-scale data and their training schedules are usually prolonged. This sets great restrictions on training Transformers with limited resources, where a proper trade-off between training cost and model performance is longed. In this paper, we address the problem by proposing a framework that enables the training process under any training budget from the perspective of model structure, while achieving competitive model performances. Specifically, based on the observation that Transformer exhibits different levels of model redundancies at different training stages, we propose to dynamically control the activation rate of the model structure along the training process and meet the demand on the training budget by adjusting the duration on each level of model complexity. Extensive experiments demonstrate that our framework is applicable to various Vision Transformers, and achieves competitive performances on a wide range of training budgets.
 

@@ -1,5 +1,5 @@
 ---
-title: "PLAM: A plug-in module for flexible graph attention learning"
+title: "PLAM: A Plug-in Module for Flexible Graph Attention Learning"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
