@@ -14,7 +14,7 @@ organizations:
   url: https://www.tsinghua.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests lie in the deep learning, graph neural network and 3D vision.
+bio: My research interests lie in model architecuture design, graph neural network and 3D computer vision.
 
 
 # Interests to show in About widget
@@ -70,7 +70,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
 
-I am a fifth year Ph.D. student at Tsinghua University, advised by [Prof. Gao Huang](http://www.gaohuang.net/) and Prof. Cheng Wu. My research interests lie in the neural architecuture design, graph neural network and 3D computer vision. <br /><font color='#dd0000'> I’m on job market now! If you are interested in me, contact me via Email. </font><br />
+I am a fifth year Ph.D. student at Tsinghua University, advised by [Prof. Gao Huang](http://www.gaohuang.net/) and Prof. Cheng Wu. My research interests lie in the model architecuture design, graph neural network and 3D computer vision. <br /><font color='#dd0000'> I’m on job market now! If you are interested in me, contact me via Email. </font><br />
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://cloud.tsinghua.edu.cn/d/6410c4a6784b473b8399/" "newtab" >}}resumé (CN/EN){{< /staticref >}}.
 
